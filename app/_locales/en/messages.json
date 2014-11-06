@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Trebeck Corrector",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Restores all Alex Trebreck photos to a happier time before he shaved his mustache.",
+    "description": "The description of the application"
+  }
+}
